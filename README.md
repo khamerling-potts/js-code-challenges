@@ -1,0 +1,1 @@
+Remember to cd into the correct directory for each code challenge so you can open the HTML file and make use of the DevTools in the browser to help you complete the challenge.
